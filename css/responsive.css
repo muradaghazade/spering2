@@ -1,0 +1,47 @@
+@media (min-width: 280px) and (max-width: 450px) {
+    .about-img {
+        width: 300px;
+    }
+    .container {
+        display: block;
+    }
+    .first {
+        width: 100%;
+    }
+    .second {
+        width: 100%;
+    }
+    .about-text {
+        width: 90%;
+    }
+    .navbar {
+        display: none;
+    }
+    .first-text {
+        width: 90%;
+    }
+    .first-container {
+        width: 100% !important;
+    }
+    .second-img {
+        width: 91% !important;
+    }
+    .second-container {
+        width: 100% !important;
+    }
+    .part2 {
+        display: block;
+    }
+    .img2 {
+        width: 100%;
+    }
+    .head-text {
+        width: 100%;
+    }
+    .first2 {
+        width: 100%;
+    }
+    .second2 {
+        width: 100%;
+    }
+}
